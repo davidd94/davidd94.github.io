@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="392px" height="160px" viewBox="0 0 392 160" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.2 (39069) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0 392 1.97530864 392 160 0 160"></polygon>
+    </defs>
+    <g id="Page---Home-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home---Desktop-More-Optimized" transform="translate(-173.000000, -2816.000000)">
+            <g id="Double-Features-Copy" transform="translate(-87.000000, 2206.000000)">
+                <g id="1" transform="translate(127.000000, 460.000000)">
+                    <g id="Page-1" transform="translate(133.000000, 128.000000)">
+                        <g id="Group-4" transform="translate(0.000000, 22.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <g id="Rectangle-8"></g>
+                            <path d="M191.966333,154.657 L199.854548,154.657 L386.485318,107.095732 L386.485318,-18.938732 L199.854548,-66.5 L191.966333,-66.5 L5.33768195,-18.9387374 L5.33768195,107.095737 L191.966333,154.657 Z M0.337681947,-22.8243257 L191.339243,-71.5 L200.481631,-71.5 L391.485318,-22.8243311 L391.485318,110.981331 L200.481631,159.657 L191.339243,159.657 L0.337681947,110.981326 L0.337681947,-22.8243257 Z" id="Stroke-6" fill="#FFFFFF" fill-rule="nonzero" mask="url(#mask-2)"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

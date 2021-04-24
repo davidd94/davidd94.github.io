@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <defs>
+    <path d="M9.98403 20C15.4981 20 19.9681 15.5228 19.9681 10C19.9681 4.47715 15.4981 0 9.98403 0C4.47 0 0 4.47715 0 10C0 15.5228 4.47 20 9.98403 20Z" id="path_1" />
+    <path d="M8.6551 0.317685C9.03133 -0.0860652 9.66311 -0.107886 10.0662 0.268948C10.4383 0.616795 10.4855 1.18273 10.1946 1.5853L10.1149 1.68232L4.52382 7.68232C4.15731 8.07564 3.55311 8.10374 3.15265 7.7666L3.06405 7.68232L0.268519 4.68232C-0.107713 4.27857 -0.0859277 3.64578 0.317178 3.26895C0.689276 2.9211 1.25622 2.91294 1.63716 3.2313L1.72829 3.31769L3.79368 5.53425L8.6551 0.317685Z" transform="translate(0.03119638 0.5937463)" id="path_2" />
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+    <clipPath id="mask_2">
+      <use xlink:href="#path_2" />
+    </clipPath>
+  </defs>
+  <g id="Icon-/-UI-/-Check-Filled">
+    <g id="Check" transform="translate(1.996806 2)">
+      <g id="BG">
+        <path d="M9.98403 20C15.4981 20 19.9681 15.5228 19.9681 10C19.9681 4.47715 15.4981 0 9.98403 0C4.47 0 0 4.47715 0 10C0 15.5228 4.47 20 9.98403 20Z" id="Mask" fill="#00257A" stroke="none" />
+        <g clip-path="url(#mask_1)">
+          <g id="Color-Fill-/-Core-/-Blue-1" transform="translate(-1.996806 -2)">
+            <g id="Swatch">
+              <path d="M0 4.56302e-14L23.9617 4.56302e-14L23.9617 24L0 24L0 4.56302e-14Z" id="Rectangle" fill="#00257A" stroke="none" />
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Check" transform="translate(4.992015 6)">
+        <path d="M8.6551 0.317685C9.03133 -0.0860652 9.66311 -0.107886 10.0662 0.268948C10.4383 0.616795 10.4855 1.18273 10.1946 1.5853L10.1149 1.68232L4.52382 7.68232C4.15731 8.07564 3.55311 8.10374 3.15265 7.7666L3.06405 7.68232L0.268519 4.68232C-0.107713 4.27857 -0.0859277 3.64578 0.317178 3.26895C0.689276 2.9211 1.25622 2.91294 1.63716 3.2313L1.72829 3.31769L3.79368 5.53425L8.6551 0.317685Z" transform="translate(0.03119638 0.5937463)" id="Mask" fill="#FFFFFF" stroke="none" />
+        <g clip-path="url(#mask_2)">
+          <g id="Color-Fill-/-Core-/-Blue-1" transform="translate(-6.988821 -8)">
+            <g id="Swatch">
+              <path d="M0 0L23.9617 0L23.9617 24L0 24L0 0Z" id="Rectangle" fill="#FFFFFF" stroke="none" />
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

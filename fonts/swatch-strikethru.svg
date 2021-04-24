@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-1014 313 52 52">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #fff;
+        stroke-width: 8px;
+      }
+
+      .cls-3 {
+        stroke: #bdbcb9;
+        stroke-width: 6px;
+      }
+
+      .cls-4, .cls-5 {
+        stroke: none;
+      }
+
+      .cls-5 {
+        fill: #bdbcb9;
+      }
+    </style>
+  </defs>
+  <g id="grey-strikethru" transform="translate(-1121 187)">
+    <path id="Path_1" data-name="Path 1" class="cls-1" d="M36.4,0,0,36.4" transform="translate(114.8 133.8)"/>
+    <g id="Path_3" data-name="Path 3" class="cls-2" transform="translate(107 126)">
+      <path class="cls-4" d="M26,0A26,26,0,1,1,0,26,26,26,0,0,1,26,0Z"/>
+      <path class="cls-5" d="M 26 46 C 37.02804183959961 46 46 37.02804183959961 46 26 C 46 14.97196006774902 37.02804183959961 6 26 6 C 14.97196006774902 6 6 14.97196006774902 6 26 C 6 37.02804183959961 14.97196006774902 46 26 46 M 26 52 C 11.64060020446777 52 0 40.35940170288086 0 26 C 0 11.64060020446777 11.64060020446777 0 26 0 C 40.35940170288086 0 52 11.64060020446777 52 26 C 52 40.35940170288086 40.35940170288086 52 26 52 Z"/>
+    </g>
+    <path id="Path_2" data-name="Path 2" class="cls-3" d="M36.4,0,0,36.4" transform="translate(114.8 133.8)"/>
+  </g>
+</svg>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="10px" viewBox="0 0 14 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 63.1 (101010) - https://sketch.com -->
+    <title>407A3E6F-F36B-4ACB-8F90-E73BAD508830</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M12.2928932,0.292893219 C12.6834175,-0.0976310729 13.3165825,-0.0976310729 13.7071068,0.292893219 C14.0675907,0.65337718 14.0953203,1.22060824 13.7902954,1.61289944 L13.7071068,1.70710678 L5.70710678,9.70710678 C5.34662282,10.0675907 4.77939176,10.0953203 4.38710056,9.79029539 L4.29289322,9.70710678 L0.292893219,5.70710678 C-0.0976310729,5.31658249 -0.0976310729,4.68341751 0.292893219,4.29289322 C0.65337718,3.93240926 1.22060824,3.90467972 1.61289944,4.20970461 L1.70710678,4.29289322 L5,7.585 L12.2928932,0.292893219 Z" id="path-1"></path>
+    </defs>
+    <g id="Icon-Sheet" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Style-Sheet---Icons" transform="translate(-1093.000000, -389.000000)">
+            <g id="Interface" transform="translate(960.000000, 282.000000)">
+                <g id="Row" transform="translate(0.000000, 100.000000)">
+                    <g id="Icon-/-UI-/-Check" transform="translate(128.000000, 0.000000)">
+                        <g id="Stroke-227" transform="translate(5.000000, 7.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Stroke-226" fill="#fff" fill-rule="nonzero" xlink:href="#path-1"></use>
+                            <g id="Color-Fill-/-Core-/-Blue-1" mask="url(#mask-2)">
+                                <g transform="translate(-5.000000, -7.000000)" id="Swatch">
+                                    <g>
+                                        <polygon id="Rectangle" fill="#fff" points="0 4.56301663e-14 24 4.56301663e-14 24 24 0 24"></polygon>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
