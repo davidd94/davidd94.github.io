@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[117],{"+Iob":function(e,n,t){"use strict";t.r(n),t.d(n,"default",(function(){return r}));var o=t("q1tI"),a=t.n(o),c=t("YQje"),s=a.a.createElement,r=function(e){var n=e.content.sections;return s("footer",{className:"main-footer"},s("div",{className:"page-container"},s(c.default,{sections:n})))}}}]);

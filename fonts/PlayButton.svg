@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="97px" height="97px" viewBox="0 0 97 97" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <desc>Created with Lunacy</desc>
+  <g id="Play-Button" transform="translate(0.5 0.5)">
+    <path d="M48 96C74.5097 96 96 74.5097 96 48C96 21.4903 74.5097 0 48 0C21.4903 0 0 21.4903 0 48C0 74.5097 21.4903 96 48 96Z" id="Oval" fill="#00257A" stroke="none" />
+    <path d="M12 0L24 18L0 18L12 0Z" transform="matrix(1.192488E-08 1 -1 1.192488E-08 59 37)" id="Triangle" fill="#FFFFFF" stroke="none" />
+  </g>
+</svg>

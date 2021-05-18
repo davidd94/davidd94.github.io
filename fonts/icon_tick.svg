@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="10px" viewBox="0 0 14 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Icon</title>
+    <g id="EFB" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="EFB---2-Enrollment---Step-2---prenatal---selected---S" transform="translate(-23.000000, -1776.000000)" fill="#007A62" fill-rule="nonzero">
+            <g id="Form" transform="translate(-0.000000, 587.000000)">
+                <g transform="translate(23.000000, 120.000000)" id="3">
+                    <g transform="translate(0.000000, 0.000000)">
+                        <g transform="translate(0.000000, 869.000000)">
+                            <g id="Text" transform="translate(-0.000000, 134.000000)">
+                                <path d="M12.2928932,66.2928932 C12.6834175,65.9023689 13.3165825,65.9023689 13.7071068,66.2928932 C14.0675907,66.6533772 14.0953203,67.2206082 13.7902954,67.6128994 L13.7071068,67.7071068 L5.70710678,75.7071068 C5.34662282,76.0675907 4.77939176,76.0953203 4.38710056,75.7902954 L4.29289322,75.7071068 L0.292893219,71.7071068 C-0.0976310729,71.3165825 -0.0976310729,70.6834175 0.292893219,70.2928932 C0.65337718,69.9324093 1.22060824,69.9046797 1.61289944,70.2097046 L1.70710678,70.2928932 L5,73.585 L12.2928932,66.2928932 Z" id="Icon"></path>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
